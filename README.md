@@ -16,10 +16,6 @@ CloudPrice.net is a powerful tool that helps developers, architects, and cloud p
 2. Check out our [Developer API Documentation](https://developer.cloudprice.net) for integration guides.
 3. Browse repositories in this GitHub organization for open-source projects and tools.
 
-## Watch Our Overview Video
-
-For a quick introduction to CloudPrice.net and its features, watch this YouTube video:
-
 [![CloudPrice.net Overview](https://img.youtube.com/vi/RnqmZrpvYJE/0.jpg)](https://www.youtube.com/watch?v=RnqmZrpvYJE)
 
 Thank you for being a part of the CloudPrice.net community!
